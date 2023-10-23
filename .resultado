@@ -1,0 +1,6 @@
+192.168.1.140 - - [17/Oct/2023 18:22:37] code 404, message File not found
+192.168.1.140 - - [17/Oct/2023 18:22:37] "GET /resultado?ponto=00059&nome=anderson HTTP/1.1" 404 -
+192.168.1.140 - - [17/Oct/2023 18:22:55] code 404, message File not found
+192.168.1.140 - - [17/Oct/2023 18:22:55] "GET /resultado?ponto=00095&nome=anderson HTTP/1.1" 404 -
+192.168.1.140 - - [17/Oct/2023 18:23:15] code 404, message File not found
+192.168.1.140 - - [17/Oct/2023 18:23:15] "GET /resultado?ponto=00134&nome=Walter HTTP/1.1" 404 -

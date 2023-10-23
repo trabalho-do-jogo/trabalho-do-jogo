@@ -1,0 +1,3 @@
+apachectl
+python2 -m SimpleHTTPServer 8000 2> .resultado
+python3 resultado.py
